@@ -7,6 +7,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0036-valid-sudoku) |
 ## String
 |  |
 | ------- |
@@ -15,4 +16,12 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Array
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0036-valid-sudoku) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->

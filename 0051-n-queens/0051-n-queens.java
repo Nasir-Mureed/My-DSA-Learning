@@ -1,65 +1,65 @@
 class Solution {
 
-   static boolean canPlace(List<StringBuilder> board,int i,int j)
+    static boolean canPlace(char[][] board,int i,int j)
     {
-        // if(i>=board.length || j>=board[0].length())
-        // {
-        //     return false; //out of bound check
-        // }
         for(int y=j-1;y>=0 ;y--) //check left
         {
-            if(board.get(i).charAt(y)=='Q')
+            if(board[i][y]=='Q')
                 return false;
         }
         for(int x=i-1 ,y=j-1; x>=0&&y>=0 ;x--,y--) //check up diagonal
         {
-            if(board.get(x).charAt(y)=='Q')
+            if(board[x][y]=='Q')
                 return false;
         }
-        for(int x=i+1, y=j-1; x<board.size() && y>=0 ;x++,y--) //check down diagonal
+        for(int x=i+1, y=j-1; x<board.length && y>=0 ;x++,y--) //check down diagonal
         {
-            if(board.get(x).charAt(y)=='Q')
+            if(board[x][y]=='Q')
                 return false;
         }
         return true;
     }
-    static void placeQueen(List<StringBuilder> board,int j,int n,List<List<String>> res)
+    static void placeQueen(char[][] board,int j,List<List<String>> res)
     {
-        if(j>=board.get(0).length())// is it base case
+        if(j>=board.length)//  base case
         {
             List<String> ans=new ArrayList<>();
-            for(int i=0;i<board.size();i++)
+            StringBuilder str=new StringBuilder();
+            for(int x=0;x<board.length;x++)
             {
-                ans.add(board.get(i).toString());
+                for(int y=0;y<board.length;y++)
+                {
+                    str.append(board[x][y]);
+                }
+                ans.add(str.toString());
+                str.delete(0,str.length());
             }
-            res.add(ans);//should use copy not ref
+            res.add(ans);
             return ;
         }
 
-        for(int k=0;k<board.size();k++)
+        for(int k=0;k<board.length;k++)
         {
             if(canPlace(board,k,j))
             {
-                board.get(k).setCharAt(j,'Q');
-                placeQueen(board,j+1,n,res);
-                board.get(k).setCharAt(j,'.');
+                board[k][j]='Q';
+                placeQueen(board,j+1,res);
+                board[k][j]='.';
             }
 
         }
     }
     public List<List<String>> solveNQueens(int n) {
         List<List<String>> res = new ArrayList<>();
-        List<StringBuilder> board=new ArrayList<>();
-        StringBuilder str=new StringBuilder();
+        char[][] board= new char[n][n];
         for(int i=0;i<n;i++)
         {
-            str.append('.');
+            for(int j=0;j<n;j++)
+            {
+                board[i][j]='.';
+            }
         }
-        for(int i=0;i<n;i++)
-        {
-            board.add(new StringBuilder(str.toString()));
-        }
-        placeQueen(board,0,n,res);
+        placeQueen(board,0,res);
         return res;
     }
 }

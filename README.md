@@ -21,6 +21,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0040-combination-sum-ii](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0079-word-search) |
 ## Array
 |  |

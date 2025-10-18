@@ -13,11 +13,13 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0079-word-search) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0040-combination-sum-ii) |
@@ -50,5 +52,6 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->

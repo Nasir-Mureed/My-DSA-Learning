@@ -9,6 +9,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0037-sudoku-solver) |
+| [0141-linked-list-cycle](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0141-linked-list-cycle) |
 | [0491-non-decreasing-subsequences](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0491-non-decreasing-subsequences) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2174-next-greater-numerically-balanced-number) |
 ## String
@@ -81,6 +82,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0141-linked-list-cycle) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2573-remove-nodes-from-linked-list) |
 ## Stack
 |  |
@@ -94,4 +96,8 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 |  |
 | ------- |
 | [2573-remove-nodes-from-linked-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2573-remove-nodes-from-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->

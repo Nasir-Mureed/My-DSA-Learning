@@ -87,6 +87,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0141-linked-list-cycle](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0141-linked-list-cycle) |
 | [0382-linked-list-random-node](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0382-linked-list-random-node) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2573-remove-nodes-from-linked-list) |
 ## Stack
 |  |
@@ -115,4 +116,8 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0382-linked-list-random-node) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->

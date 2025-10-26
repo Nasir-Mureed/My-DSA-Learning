@@ -72,6 +72,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0382-linked-list-random-node) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Counting
 |  |
 | ------- |
@@ -89,6 +90,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2573-remove-nodes-from-linked-list) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -120,4 +122,8 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2299-merge-nodes-in-between-zeros) |
+## Number Theory
+|  |
+| ------- |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->

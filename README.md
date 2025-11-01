@@ -50,6 +50,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0216-combination-sum-iii](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0216-combination-sum-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0494-target-sum) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
 |  |
 | ------- |
@@ -83,6 +84,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Enumeration
 |  |
 | ------- |
@@ -135,4 +137,8 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->

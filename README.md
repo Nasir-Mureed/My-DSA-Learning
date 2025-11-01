@@ -12,6 +12,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0141-linked-list-cycle](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0141-linked-list-cycle) |
 | [0491-non-decreasing-subsequences](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0491-non-decreasing-subsequences) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2634-minimum-common-value](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2634-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -51,6 +52,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0491-non-decreasing-subsequences](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0494-target-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2634-minimum-common-value](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2634-minimum-common-value) |
 ## Matrix
 |  |
 | ------- |
@@ -121,6 +123,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0141-linked-list-cycle) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2634-minimum-common-value](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2634-minimum-common-value) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -141,4 +144,5 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2634-minimum-common-value](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2634-minimum-common-value) |
 <!---LeetCode Topics End-->

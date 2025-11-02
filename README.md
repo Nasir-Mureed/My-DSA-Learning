@@ -10,6 +10,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0036-valid-sudoku](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0160-intersection-of-two-linked-lists) |
 | [0491-non-decreasing-subsequences](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0491-non-decreasing-subsequences) |
 | [0816-design-hashset](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0816-design-hashset) |
@@ -103,6 +104,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0203-remove-linked-list-elements) |
@@ -139,6 +141,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0160-intersection-of-two-linked-lists) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2216-delete-the-middle-node-of-a-linked-list) |

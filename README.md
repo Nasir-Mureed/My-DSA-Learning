@@ -103,6 +103,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0203-remove-linked-list-elements) |
 | [0382-linked-list-random-node](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0382-linked-list-random-node) |
@@ -119,12 +120,14 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0143-reorder-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2573-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0203-remove-linked-list-elements) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -136,6 +139,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0160-intersection-of-two-linked-lists) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2236-maximum-twin-sum-of-a-linked-list) |

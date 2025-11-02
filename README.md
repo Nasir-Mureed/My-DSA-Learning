@@ -104,6 +104,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0203-remove-linked-list-elements) |
 | [0382-linked-list-random-node](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0382-linked-list-random-node) |
 | [0816-design-hashset](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0816-design-hashset) |
 | [0859-design-circular-deque](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0859-design-circular-deque) |
@@ -123,6 +124,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0203-remove-linked-list-elements) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |

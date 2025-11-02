@@ -184,4 +184,8 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | ------- |
 | [0859-design-circular-deque](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0860-design-circular-queue) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

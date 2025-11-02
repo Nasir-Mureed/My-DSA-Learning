@@ -187,5 +187,6 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 ## Database
 |  |
 | ------- |
+| [1258-article-views-i](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

@@ -19,13 +19,8 @@ public:
         while(fast && fast->next) // when ever fast reaches to end slow will be one node behind mid
         {
             slow=slow->next;
-            if(fast->next)
-                fast=fast->next->next;
-            else
-            {
-                slow->next=slow->next->next;
-                return head;
-            }
+            
+            fast=fast->next->next;
         }
         slow->next=slow->next->next;
         return head;

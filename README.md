@@ -51,6 +51,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0216-combination-sum-iii](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0216-combination-sum-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0494-target-sum) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2634-minimum-common-value) |
 ## Matrix
@@ -60,6 +61,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0037-sudoku-solver](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0079-word-search) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -136,6 +138,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Number Theory
 |  |
 | ------- |

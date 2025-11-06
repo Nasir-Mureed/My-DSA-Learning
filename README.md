@@ -106,6 +106,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0141-linked-list-cycle](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0143-reorder-list) |
+| [0147-insertion-sort-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0147-insertion-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0203-remove-linked-list-elements) |
 | [0382-linked-list-random-node](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0382-linked-list-random-node) |
@@ -197,4 +198,8 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1811-fix-names-in-a-table](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1811-fix-names-in-a-table) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1908-recyclable-and-low-fat-products) |
+## Sorting
+|  |
+| ------- |
+| [0147-insertion-sort-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0147-insertion-sort-list) |
 <!---LeetCode Topics End-->

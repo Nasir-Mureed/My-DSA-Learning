@@ -22,6 +22,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0079-word-search) |
+| [0257-binary-tree-paths](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0257-binary-tree-paths) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
 |  |
@@ -36,6 +37,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0052-n-queens-ii](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0257-binary-tree-paths) |
 | [0491-non-decreasing-subsequences](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0494-target-sum) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -73,6 +75,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | ------- |
 | [0079-word-search](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0079-word-search) |
 | [0112-path-sum](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0257-binary-tree-paths) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -207,6 +210,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -215,4 +219,5 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->

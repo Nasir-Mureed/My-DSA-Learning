@@ -10,7 +10,8 @@
  * };
  */
 class Solution {
-    void dfs(TreeNode* root, string path, vector<string>& res)
+    vector<string> res;
+    void dfs(TreeNode* root, string path)
     {
         if(!root)
             return;
@@ -22,14 +23,13 @@ class Solution {
         }
         path.append(std::to_string(root->val)); //apend char
         path.append("->");
-        dfs(root->left,path,res);
-        dfs(root->right,path,res);
+        dfs(root->left,path);
+        dfs(root->right,path);
     }
 public:
     vector<string> binaryTreePaths(TreeNode* root) 
     {
-        vector<string> res;
-        dfs(root,"",res);
+        dfs(root,"");
         return res;
         
     }

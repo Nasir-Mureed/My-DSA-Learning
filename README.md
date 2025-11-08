@@ -72,6 +72,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0079-word-search) |
+| [0112-path-sum](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0112-path-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -202,4 +203,16 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0147-insertion-sort-list) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->

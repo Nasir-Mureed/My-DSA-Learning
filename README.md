@@ -63,6 +63,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2634-minimum-common-value) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Matrix
 |  |
 | ------- |
@@ -71,6 +72,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0048-rotate-image](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0079-word-search) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -168,6 +170,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Number Theory
 |  |
 | ------- |

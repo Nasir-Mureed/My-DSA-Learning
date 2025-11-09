@@ -98,6 +98,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0048-rotate-image](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0048-rotate-image) |
 | [0382-linked-list-random-node](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0382-linked-list-random-node) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2288-count-operations-to-obtain-zero) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Counting
@@ -169,6 +170,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 ## Simulation
 |  |
 | ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2288-count-operations-to-obtain-zero) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/3708-zigzag-grid-traversal-with-skip) |

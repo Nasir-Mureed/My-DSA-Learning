@@ -23,6 +23,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0022-generate-parentheses](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0257-binary-tree-paths) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0449-serialize-and-deserialize-bst) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
 |  |
@@ -85,6 +86,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0257-binary-tree-paths) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0449-serialize-and-deserialize-bst) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -193,6 +195,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 ## Design
 |  |
 | ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0449-serialize-and-deserialize-bst) |
 | [0816-design-hashset](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0816-design-hashset) |
 | [0859-design-circular-deque](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0860-design-circular-queue) |
@@ -236,6 +239,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0257-binary-tree-paths) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0449-serialize-and-deserialize-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -245,6 +249,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0112-path-sum](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0449-serialize-and-deserialize-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -259,4 +264,9 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0257-binary-tree-paths) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0449-serialize-and-deserialize-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0449-serialize-and-deserialize-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0449-serialize-and-deserialize-bst) |
 <!---LeetCode Topics End-->

@@ -87,6 +87,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0129-sum-root-to-leaf-numbers](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0257-binary-tree-paths) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0449-serialize-and-deserialize-bst) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -240,6 +241,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0129-sum-root-to-leaf-numbers](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0257-binary-tree-paths) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0449-serialize-and-deserialize-bst) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -250,6 +252,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0449-serialize-and-deserialize-bst) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -265,6 +268,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0129-sum-root-to-leaf-numbers](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0257-binary-tree-paths](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0257-binary-tree-paths) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0449-serialize-and-deserialize-bst) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |

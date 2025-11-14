@@ -88,6 +88,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0199-binary-tree-right-side-view](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0257-binary-tree-paths) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0449-serialize-and-deserialize-bst) |
+| [1254-deepest-leaves-sum](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1254-deepest-leaves-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Dynamic Programming
 |  |
@@ -243,6 +244,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0199-binary-tree-right-side-view](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0257-binary-tree-paths) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0449-serialize-and-deserialize-bst) |
+| [1254-deepest-leaves-sum](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1254-deepest-leaves-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -255,6 +257,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0199-binary-tree-right-side-view) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0449-serialize-and-deserialize-bst) |
+| [1254-deepest-leaves-sum](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1254-deepest-leaves-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -272,6 +275,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0199-binary-tree-right-side-view](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0257-binary-tree-paths) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0449-serialize-and-deserialize-bst) |
+| [1254-deepest-leaves-sum](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1254-deepest-leaves-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |

@@ -92,6 +92,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0257-binary-tree-paths](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0449-serialize-and-deserialize-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1254-deepest-leaves-sum](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1254-deepest-leaves-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -251,6 +252,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0257-binary-tree-paths](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0449-serialize-and-deserialize-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1254-deepest-leaves-sum](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1254-deepest-leaves-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -285,6 +287,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0257-binary-tree-paths](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0449-serialize-and-deserialize-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1254-deepest-leaves-sum](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1254-deepest-leaves-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1544-count-good-nodes-in-binary-tree) |

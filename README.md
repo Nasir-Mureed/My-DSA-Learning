@@ -254,6 +254,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0449-serialize-and-deserialize-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -292,6 +293,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0449-serialize-and-deserialize-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -301,6 +303,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 |  |
 | ------- |
 | [0449-serialize-and-deserialize-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0449-serialize-and-deserialize-bst) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0799-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->

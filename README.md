@@ -81,6 +81,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0113-path-sum-ii) |
@@ -239,6 +240,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -278,6 +280,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -302,6 +305,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0098-validate-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0449-serialize-and-deserialize-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0784-insert-into-a-binary-search-tree) |

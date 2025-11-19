@@ -15,6 +15,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0491-non-decreasing-subsequences](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0491-non-decreasing-subsequences) |
 | [0816-design-hashset](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0816-design-hashset) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2634-minimum-common-value](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2634-minimum-common-value) |
 ## String
 |  |
@@ -64,6 +65,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0816-design-hashset](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0816-design-hashset) |
 | [0859-design-circular-deque](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0860-design-circular-queue) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2634-minimum-common-value) |
@@ -192,6 +194,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 ## Simulation
 |  |
 | ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2288-count-operations-to-obtain-zero) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -239,6 +242,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0147-insertion-sort-list) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Tree
 |  |
 | ------- |

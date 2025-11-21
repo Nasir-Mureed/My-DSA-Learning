@@ -65,6 +65,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0816-design-hashset](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0816-design-hashset) |
 | [0859-design-circular-deque](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0860-design-circular-queue) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -159,6 +160,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0143-reorder-list) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2573-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -171,6 +173,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 ## Monotonic Stack
 |  |
 | ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2573-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
@@ -268,6 +271,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0783-search-in-a-binary-search-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1254-deepest-leaves-sum](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1254-deepest-leaves-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -312,6 +316,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0783-search-in-a-binary-search-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1254-deepest-leaves-sum](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1254-deepest-leaves-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -326,4 +331,5 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0783-search-in-a-binary-search-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->

@@ -12,6 +12,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0141-linked-list-cycle](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0160-intersection-of-two-linked-lists) |
+| [0208-implement-trie-prefix-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0208-implement-trie-prefix-tree) |
 | [0491-non-decreasing-subsequences](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0491-non-decreasing-subsequences) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0816-design-hashset](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0816-design-hashset) |
@@ -24,6 +25,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0079-word-search) |
+| [0208-implement-trie-prefix-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0449-serialize-and-deserialize-bst) |
@@ -218,6 +220,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0449-serialize-and-deserialize-bst) |
 | [0816-design-hashset](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0816-design-hashset) |
@@ -365,4 +368,8 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0912-sort-an-array) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->

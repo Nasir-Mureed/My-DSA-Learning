@@ -62,6 +62,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0048-rotate-image](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0079-word-search) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0216-combination-sum-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0494-target-sum) |
@@ -254,6 +255,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0147-insertion-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0912-sort-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Tree
@@ -352,10 +354,12 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -385,4 +389,8 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0547-number-of-provinces) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->

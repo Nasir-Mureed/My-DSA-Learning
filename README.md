@@ -111,6 +111,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [1030-smallest-string-starting-from-leaf](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1254-deepest-leaves-sum](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1254-deepest-leaves-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1971-find-if-path-exists-in-graph) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -307,6 +308,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1254-deepest-leaves-sum](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1254-deepest-leaves-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -385,10 +387,12 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1971-find-if-path-exists-in-graph) |
 ## Quickselect
 |  |
 | ------- |

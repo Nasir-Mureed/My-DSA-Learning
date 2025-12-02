@@ -72,6 +72,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0859-design-circular-deque](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0860-design-circular-queue) |
 | [0912-sort-an-array](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0912-sort-an-array) |
+| [0994-rotting-oranges](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -86,6 +87,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0048-rotate-image](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0079-word-search) |
 | [0733-flood-fill](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0994-rotting-oranges) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Depth-First Search
@@ -315,6 +317,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0797-all-paths-from-source-to-target](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0797-all-paths-from-source-to-target) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0994-rotting-oranges) |
 | [1254-deepest-leaves-sum](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1254-deepest-leaves-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1971-find-if-path-exists-in-graph) |

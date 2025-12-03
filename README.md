@@ -67,6 +67,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0216-combination-sum-iii](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0216-combination-sum-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0733-flood-fill) |
 | [0816-design-hashset](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0816-design-hashset) |
 | [0859-design-circular-deque](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0859-design-circular-deque) |
@@ -86,6 +87,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0037-sudoku-solver](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0079-word-search) |
+| [0542-01-matrix](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0994-rotting-oranges) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -125,6 +127,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | ------- |
 | [0022-generate-parentheses](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0542-01-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -311,6 +314,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0449-serialize-and-deserialize-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0733-flood-fill) |

@@ -115,6 +115,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0797-all-paths-from-source-to-target) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0841-keys-and-rooms) |
@@ -318,6 +319,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0547-number-of-provinces](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0797-all-paths-from-source-to-target) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0841-keys-and-rooms) |
@@ -403,11 +405,13 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1971-find-if-path-exists-in-graph) |

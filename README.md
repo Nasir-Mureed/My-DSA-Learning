@@ -68,6 +68,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0491-non-decreasing-subsequences](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0542-01-matrix) |
+| [0654-maximum-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0654-maximum-binary-tree) |
 | [0733-flood-fill](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0733-flood-fill) |
 | [0816-design-hashset](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0816-design-hashset) |
 | [0859-design-circular-deque](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0859-design-circular-deque) |
@@ -181,6 +182,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0143-reorder-list) |
+| [0654-maximum-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0654-maximum-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2573-remove-nodes-from-linked-list) |
@@ -194,6 +196,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 ## Monotonic Stack
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0654-maximum-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2573-remove-nodes-from-linked-list) |
 ## Two Pointers
@@ -294,6 +297,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0450-delete-node-in-a-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0654-maximum-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -350,6 +354,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0450-delete-node-in-a-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0654-maximum-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -375,6 +380,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0215-kth-largest-element-in-an-array) |
+| [0654-maximum-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0654-maximum-binary-tree) |
 | [0912-sort-an-array](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |

@@ -28,6 +28,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0208-implement-trie-prefix-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0392-is-subsequence](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0392-is-subsequence) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0449-serialize-and-deserialize-bst) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1030-smallest-string-starting-from-leaf) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -128,6 +129,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0022-generate-parentheses) |
+| [0392-is-subsequence](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0542-01-matrix) |
 ## Bit Manipulation
@@ -207,6 +209,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0142-linked-list-cycle-ii](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0160-intersection-of-two-linked-lists) |
+| [0392-is-subsequence](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2236-maximum-twin-sum-of-a-linked-list) |

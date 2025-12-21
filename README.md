@@ -30,6 +30,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0392-is-subsequence) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0449-serialize-and-deserialize-bst) |
+| [0806-number-of-lines-to-write-string](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0806-number-of-lines-to-write-string) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1030-smallest-string-starting-from-leaf) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
@@ -71,6 +72,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0542-01-matrix](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0542-01-matrix) |
 | [0654-maximum-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0654-maximum-binary-tree) |
 | [0733-flood-fill](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0733-flood-fill) |
+| [0806-number-of-lines-to-write-string](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0806-number-of-lines-to-write-string) |
 | [0816-design-hashset](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0816-design-hashset) |
 | [0859-design-circular-deque](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0860-design-circular-queue) |

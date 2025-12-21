@@ -83,6 +83,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2634-minimum-common-value) |
+| [2855-minimum-right-shifts-to-sort-the-array](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Matrix
 |  |

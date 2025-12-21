@@ -57,6 +57,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0039-combination-sum) |
@@ -207,6 +208,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0016-3sum-closest) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0142-linked-list-cycle-ii) |
@@ -276,6 +278,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0016-3sum-closest) |
 | [0147-insertion-sort-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0912-sort-an-array) |

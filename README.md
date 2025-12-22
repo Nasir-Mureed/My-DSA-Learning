@@ -111,6 +111,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0257-binary-tree-paths) |
@@ -326,6 +327,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0449-serialize-and-deserialize-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -427,6 +429,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0797-all-paths-from-source-to-target) |
@@ -440,5 +443,6 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->

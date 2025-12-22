@@ -18,6 +18,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0816-design-hashset](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0816-design-hashset) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2418-sort-the-people](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2418-sort-the-people) |
 | [2634-minimum-common-value](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2634-minimum-common-value) |
 ## String
 |  |
@@ -32,6 +33,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0449-serialize-and-deserialize-bst](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0449-serialize-and-deserialize-bst) |
 | [0806-number-of-lines-to-write-string](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0806-number-of-lines-to-write-string) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1030-smallest-string-starting-from-leaf) |
+| [2418-sort-the-people](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2418-sort-the-people) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
 |  |
@@ -82,6 +84,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2418-sort-the-people](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2418-sort-the-people) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2634-minimum-common-value) |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
@@ -286,6 +289,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0215-kth-largest-element-in-an-array](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0912-sort-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2418-sort-the-people](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2418-sort-the-people) |
 ## Tree
 |  |
 | ------- |

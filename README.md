@@ -82,6 +82,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0912-sort-an-array](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2418-sort-the-people](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2418-sort-the-people) |
@@ -152,6 +153,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | ------- |
 | [0048-rotate-image](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0048-rotate-image) |
 | [0382-linked-list-random-node](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0382-linked-list-random-node) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2288-count-operations-to-obtain-zero) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -453,4 +455,8 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0207-course-schedule](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0802-find-eventual-safe-states) |
+## Greedy
+|  |
+| ------- |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 <!---LeetCode Topics End-->

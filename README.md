@@ -124,6 +124,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0785-is-graph-bipartite](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0797-all-paths-from-source-to-target) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0802-find-eventual-safe-states](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0841-keys-and-rooms) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1254-deepest-leaves-sum](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1254-deepest-leaves-sum) |
@@ -335,6 +336,7 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0785-is-graph-bipartite](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0797-all-paths-from-source-to-target) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0802-find-eventual-safe-states](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0994-rotting-oranges) |
 | [1254-deepest-leaves-sum](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1254-deepest-leaves-sum) |
@@ -428,10 +430,15 @@ Daily solved problems from LeetCode and other platforms to strengthen DSA concep
 | [0547-number-of-provinces](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/1971-find-if-path-exists-in-graph) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0215-kth-largest-element-in-an-array) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Nasir-Mureed/My-DSA-Learning/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
